@@ -1,4 +1,4 @@
-package net.glasslauncher.example.mixin;
+package io.github.Vaema.betadeco.mixin;
 
 import net.minecraft.client.MinecraftApplet;
 import org.spongepowered.asm.mixin.Mixin;

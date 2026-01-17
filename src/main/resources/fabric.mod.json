@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "%s",
+  "id": "betadeco",
   "version": "${version}",
 
   "name": "Example Mod",
@@ -14,12 +14,12 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/%s/icon.png",
+  "icon": "assets/betadeco/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "stationapi:event_bus": [
-      "%s.events.init.InitListener"
+      "io.github.Vaema.betadeco.events.init.InitListener"
     ],
     "stationapi:event_bus_client": [
     ],
@@ -27,7 +27,7 @@
     ]
   },
   "mixins": [
-    "%s.mixins.json"
+    "betadeco.mixins.json"
   ],
 
   "depends": {
