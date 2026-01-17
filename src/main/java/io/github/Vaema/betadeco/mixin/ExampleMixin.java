@@ -1,3 +1,5 @@
+/*
+Mixins potentially could be used later on.
 package io.github.Vaema.betadeco.mixin;
 
 import net.minecraft.client.MinecraftApplet;
@@ -13,3 +15,4 @@ public class ExampleMixin {
 		System.out.println("This line is printed by an example mod mixin!");
 	}
 }
+ */

@@ -3,14 +3,14 @@
   "id": "betadeco",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Beta Decorations",
+  "description": "A mod that focuses on adding more decorations for Minecraft beta 1.7.3.",
   "authors": [
-    "Me!"
+    "Astra"
   ],
   "contact": {
     "homepage": "https://glass-launcher.net/",
-    "sources": "https://github.com/calmilamsy/stationapi-example-mod"
+    "sources": "https://github.com/Vaema/MinecraftBetaDecorations"
   },
 
   "license": "CC0-1.0",
